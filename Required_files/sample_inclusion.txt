@@ -1,0 +1,33 @@
+Muscle - Skeletal
+Whole Blood
+Skin - Sun Exposed (Lower leg)
+Artery - Tibial
+Adipose - Subcutaneous
+Thyroid
+Nerve - Tibial
+Esophagus - Mucosa
+Skin - Not Sun Exposed (Suprapubic)
+Esophagus - Muscularis
+Lung
+Breast - Mammary Tissue
+Adipose - Visceral (Omentum)
+Cells - Cultured fibroblasts
+Artery - Aorta
+Colon - Transverse
+Heart - Atrial Appendage
+Heart - Left Ventricle
+Esophagus - Gastroesophageal Junction
+Colon - Sigmoid
+Stomach
+Pancreas
+Artery - Coronary
+Adrenal Gland
+Testis
+Spleen
+Prostate
+Small Intestine - Terminal Ileum
+Cells - EBV-transformed lymphocytes
+Minor Salivary Gland
+Ovary
+Vagina
+Uterus

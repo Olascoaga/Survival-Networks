@@ -1,0 +1,34 @@
+Tejido,E,Y
+Adipose - Subcutaneous,0.091,0.099
+Adipose - Visceral,0.123,0.122
+Adrenal Gland,0.164,0.131
+Artery - Aorta,0.119,0.118
+Artery - Coronary,0.128,0.156
+Artery - Tibial,0.102,0.11
+Breast - Mammary Tissue,0.152,0.182
+Cultured fibroblasts,0.254,0.255
+EBV-transformed lymphocytes,0.149,0.139
+Colon - Sigmoid,0.117,0.137
+Colon - Transverse,0.262,0.323
+Esophagus - Gastroesophageal,0.151,0.103
+Esophagus - Mucosa,0.128,0.097
+Esophagus - Muscularis,0.157,0.107
+Heart - Atrial Appendage,0.125,0.14
+Heart - Left Ventricle,0.229,0.164
+Lung,0.128,0.13
+Minor Salivary Gland,0.142,0.163
+Muscle - Skeletal,0.122,0.103
+Nerve - Tibial,0.099,0.107
+Ovary,0.135,0.125
+Pancreas,0.11,0.108
+Prostate,0.13,0.124
+Skin - Not Sun Exposed,0.099,0.111
+Skin - Sun Exposed,0.096,0.114
+Small Intestine,0.251,0.26
+Spleen,0.141,0.128
+Stomach,0.26,0.303
+Testis,0.241,0.214
+Thyroid,0.094,0.096
+Uterus,0.165,0.13
+Vagina,0.211,0.185
+Whole Blood,0.218,0.198
